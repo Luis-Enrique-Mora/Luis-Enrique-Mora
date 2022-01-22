@@ -2,7 +2,6 @@
 <img
    src="https://github-readme-stats.vercel.app/api?username=Luis-Enrique-Mora&show_icons=true&theme=tokyonight"
 />
-
 <!--
 **Luis-Enrique-Mora/Luis-Enrique-Mora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
