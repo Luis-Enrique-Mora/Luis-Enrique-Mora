@@ -1,4 +1,4 @@
-### Hi 👋 I'm Luis, and a Oracle developer!
+### Hi 👋 I'm Luis, and I'm Oracle developer!
 <img
    src="https://github-readme-stats.vercel.app/api?username=Luis-Enrique-Mora&show_icons=true&theme=tokyonight"
 />
